@@ -1,17 +1,17 @@
-#Helen Chatbot
+# Helen Chatbot
 
 Helen Chatbot is a Flutter application that utilizes the power of Flutter and OpenAPI to create an interactive and intelligent chatbot experience. The app integrates the capabilities of ChatGPT, a language model developed by OpenAI, and leverages OpenAI image visualization for enhanced interactions. Helen Chatbot also includes a voice recognition feature that is highly responsive and performs exceptionally well.
 
-##Features
-###Interactive Chat Interface: Helen Chatbot provides a user-friendly chat interface that allows users to have dynamic conversations with the ChatGPT model. Users can input text messages and receive contextual responses in real-time.
+## Features
+### Interactive Chat Interface: Helen Chatbot provides a user-friendly chat interface that allows users to have dynamic conversations with the ChatGPT model. Users can input text messages and receive contextual responses in real-time.
 
-###OpenAI Integration: The app integrates with OpenAI's ChatGPT API, utilizing its advanced natural language processing capabilities to generate intelligent and contextually relevant responses.
+### OpenAI Integration: The app integrates with OpenAI's ChatGPT API, utilizing its advanced natural language processing capabilities to generate intelligent and contextually relevant responses.
 
-###OpenAI Image Visualization: Helen Chatbot supports OpenAI image visualization, allowing users to input images and receive visual descriptions or analysis from the model. This feature enhances the overall user experience and expands the chatbot's capabilities.
+### OpenAI Image Visualization: Helen Chatbot supports OpenAI image visualization, allowing users to input images and receive visual descriptions or analysis from the model. This feature enhances the overall user experience and expands the chatbot's capabilities.
 
-###Voice Recognition: The app includes a voice recognition feature that enables users to interact with the chatbot using their voice. The voice recognition system is highly responsive, providing accurate transcriptions of spoken commands or messages.
+### Voice Recognition: The app includes a voice recognition feature that enables users to interact with the chatbot using their voice. The voice recognition system is highly responsive, providing accurate transcriptions of spoken commands or messages.
 
-##Requirements
+## Requirements
 To run the Helen Chatbot app, ensure you have the following:
 
 Flutter SDK (version 2.0.0 or later)
@@ -45,10 +45,10 @@ Copy code
 ```
 flutter run
 ```
-##Usage
+## Usage
 Launch the Helen Chatbot app on your device or emulator.
 
-###Chat Interface:
+### Chat Interface:
 
 Type your messages in the input field at the bottom of the screen.
 Tap the send button or press enter to send your message.
@@ -68,12 +68,12 @@ Contributions to Helen Chatbot are welcome! If you encounter any issues or have 
 
 When contributing, please follow the existing code style and conventions. Provide clear and concise commit messages and document any changes or additions appropriately.
 
-##License
+## License
 Helen Chatbot is released under the MIT License. Feel free to modify and distribute the app according to the terms of this license.
 
-##Acknowledgments
+## Acknowledgments
 Helen Chatbot makes use of the powerful Flutter framework, developed by the Flutter team at Google.
 The app integrates with OpenAI's ChatGPT API and utilizes OpenAI image visualization capabilities, made available by OpenAI.
 The voice recognition feature in Helen Chatbot is enabled by the underlying voice recognition technology incorporated within the Flutter framework.
-##Disclaimer
+## Disclaimer
 Helen Chatbot is an independent project and is not affiliated with or endorsed by OpenAI or the Flutter team at Google.
