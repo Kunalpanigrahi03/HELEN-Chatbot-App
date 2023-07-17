@@ -22,7 +22,7 @@ Installation
 Clone the Helen Chatbot repository to your local machine:
 Copy code
 ```
-git clone https://github.com/your-username/helen-chatbot.git
+git clone https://github.com/Kunalpanigrahi03/helen-chatbot.git
 Navigate to the project directory:
 ```
 Copy code
